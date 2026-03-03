@@ -1,10 +1,12 @@
-package Variaveis;
+package VariaveisPrimitivos;
 
 import java.util.Locale;
 
+// double: 15 casas decimais 123456789123456 (8 bytes de informação ou 64 bits)
+
 public class Double {
     void main (){
-        double x = 10.35784;
+        double x = 10.123456789123456;
         IO.println( "O valor de X é: "+ x);
 
         System.out.printf("%.2f%n", x);

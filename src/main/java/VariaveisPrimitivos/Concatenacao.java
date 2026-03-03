@@ -1,4 +1,4 @@
-package Variaveis;
+package VariaveisPrimitivos;
 
 public class Concatenacao {
     void main (){
