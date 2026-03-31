@@ -1,8 +1,8 @@
 package ClassesWrappers;
 
 public class ExemploBoolean {
-    void main () {
+    public static void main(String[] args) {
         Boolean meuNumero = true;
-        IO.println(meuNumero.);
+        IO.println(meuNumero.booleanValue());
     }
 }
