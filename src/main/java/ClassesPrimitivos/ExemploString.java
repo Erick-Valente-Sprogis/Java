@@ -1,4 +1,4 @@
-package VariaveisPrimitivos;
+package ClassesPrimitivos;
 
 // String: vai receber textos == palavras e frases
 

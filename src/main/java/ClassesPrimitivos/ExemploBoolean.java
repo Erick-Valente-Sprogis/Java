@@ -1,4 +1,4 @@
-package VariaveisPrimitivos;
+package ClassesPrimitivos;
 
 // Boolean: guarda estados, verdadeiro ou falso, ligado ou desligado, sim ou não.
 

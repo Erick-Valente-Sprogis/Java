@@ -1,4 +1,4 @@
-package VariaveisPrimitivos;
+package ClassesPrimitivos;
 
 /*
     short: -32768 a 32767 (2 bytes de informação ou 16 bits)

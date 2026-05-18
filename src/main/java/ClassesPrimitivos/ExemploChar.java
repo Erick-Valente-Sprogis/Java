@@ -1,4 +1,4 @@
-package VariaveisPrimitivos;
+package ClassesPrimitivos;
 
 // Char: suporta apenas um único caracter
 

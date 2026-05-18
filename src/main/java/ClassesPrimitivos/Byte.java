@@ -1,4 +1,4 @@
-package VariaveisPrimitivos;
+package ClassesPrimitivos;
 
 /*
     byte: -128 a 127 (1 byte de informação ou 8 bits)

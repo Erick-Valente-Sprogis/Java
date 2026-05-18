@@ -1,4 +1,4 @@
-package VariaveisPrimitivos;
+package ClassesPrimitivos;
 
 // float: 7 casas decimais - 1234567 (4 bytes de informação ou 32 bits)
 
